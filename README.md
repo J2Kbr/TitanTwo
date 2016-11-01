@@ -1,2 +1,2 @@
 # TitanTwo
-Titan Two - Device Firmware
+Titan Two - Device firmware bug report.
